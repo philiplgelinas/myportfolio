@@ -1,4 +1,4 @@
-# Philip Gelinas — Software Engineer II
+# Philip GeLinas — Software Engineer II
 
 Full-stack software engineer focused on building scalable, cloud-based applications with clean architecture, modern tooling, and production-ready practices.
 
@@ -94,3 +94,4 @@ GitHub: https://github.com/philiplgelinas
 ## Resume
 
 A downloadable PDF resume is available on my portfolio website.
+
