@@ -1,4 +1,4 @@
-# Philip GeLinas — Software Engineer II
+# Philip GeLinas — Software Engineer III
 
 Full-stack software engineer focused on building scalable, cloud-based applications with clean architecture, modern tooling, and production-ready practices.
 
@@ -8,7 +8,7 @@ I enjoy working across the stack — from responsive, accessible front-end inter
 
 ## About Me
 
-I’m a Software Engineer II with experience designing and delivering cloud-native applications used in production environments. My background includes building modern web UIs, developing RESTful APIs, and deploying services using containerization and CI/CD pipelines.
+I’m a Software Engineer III with experience designing and delivering cloud-native applications used in production environments. My background includes building modern web UIs, developing RESTful APIs, and deploying services using containerization and CI/CD pipelines.
 
 I care deeply about code quality, system design, and developer experience, and I enjoy mentoring teammates and contributing to teams that value thoughtful engineering.
 
